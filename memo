@@ -1,3 +1,3 @@
-standalone toolchain path
+standalone toolchain 64
 
-export PATH=$PATH:$~/ndk/tool-chain/aarch64-linux-android-4.9/bin:$~/ndk/tool-chain/arm-linux-androideabi-4.9/bin
+export PATH=$PATH:~/ndk/tool-chain/aarch64-linux-android-4.9/bin
